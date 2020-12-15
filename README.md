@@ -5,7 +5,7 @@ My solutions for Advent of Code 2020!
 
 * [X] Day 2 - Node.js
 
-* [ ] Day 3
+* [X] Day 3 - Swift
 
 * [ ] Day 4
 
