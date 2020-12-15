@@ -1,7 +1,7 @@
 # AoC2020
 My solutions for Advent of Code 2020!
 
-[X] Day 1 - C++
+* [X] Day 1 - C++
 
 [X] Day 2 - Node.js
 
